@@ -1,7 +1,7 @@
 # Xrome
- A very basic operating system written in **C** and **Assembly**. 
+A very basic operating system written in **C** and **Assembly**. 
 
- Note: boot sector is not made by me.
+- Note: boot sector is not made by me.
 
 ## Building
 
@@ -12,3 +12,6 @@ Simply execute
 $ make
 ```
 and that's it.
+
+## License
+[GNU General Public License v3.0](LICENSE)
