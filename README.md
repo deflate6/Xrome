@@ -1,7 +1,7 @@
 # Xrome
 A very basic operating system written in **C** and **Assembly**. 
 
-- Note: boot sector is not made by me.
+- Note: some assembly files is not written by me.
 
 ## Building
 
