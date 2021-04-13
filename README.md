@@ -13,6 +13,14 @@ $ make
 ```
 and that's it.
 
+## Running
+
+After building, you can use **qemu** for running rhe binary.
+
+```
+$ qemu-system-x86_64 os-image.bin
+```
+
 ## License
 [GNU General Public License v3.0](LICENSE)
 
