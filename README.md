@@ -25,4 +25,4 @@ $ qemu-system-x86_64 os-image.bin
 [GNU General Public License v3.0](LICENSE)
 
 ## Status
-**In development...**
+**Development halted. I'm going to develop another OS :D**
