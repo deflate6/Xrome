@@ -21,6 +21,12 @@ After building, you can use **qemu** for running rhe binary.
 $ qemu-system-x86_64 os-image.bin
 ```
 
+## Contributing
+
+- Fork this repo.
+- Add a feature.
+- Create a new pull request.
+
 ## License
 [GNU General Public License v3.0](LICENSE)
 
